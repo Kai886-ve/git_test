@@ -5,4 +5,4 @@
  "git commit -m "Edit README.md and hello_world.txt" "git commit -m "Add hello_world.txt" esto comite lo que hayas enviado al staging (pendiente averiguar diferencias entre edit y add)
  "git log" te permite ver los cambios y registros en cada archivo
  "git push origin main" esto envia lo que has hecho al github, especificamente a la rama main
- "git push"esto envia lo que has hecho al github, pero no a una rama especifica, solo se aplica si tienes una sola rama
+ "git push"esto envia lo que has hecho al github, pero no a una rama especifica, solo se aplica si tienes una sola rama.
