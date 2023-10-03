@@ -1,4 +1,4 @@
 "touch hello_world.txt" crea un archivo en el repositorio
 "git add ." envia todo al staging, reemplaza el punto por el nombre del archivo si solo quieres enviar eso
  "git status" solo muestra el estado de todo aquello que hayas modificado
- "git commit -m "Edit README.md and hello_world.txt" esto comite lo que hayas enviado al staging
+ "git commit -m "Edit README.md and hello_world.txt" "git commit -m "Add hello_world.txt" esto comite lo que hayas enviado al staging (pendiente averiguar diferencias entre edit y add)
