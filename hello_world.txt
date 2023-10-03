@@ -1,3 +1,4 @@
+"git clone git@github.com:Kai886-ve/git_test.git" Conecta al repositorio SSH
 "touch hello_world.txt" crea un archivo en el repositorio
 "git add ." envia todo al staging, reemplaza el punto por el nombre del archivo si solo quieres enviar eso
  "git status" solo muestra el estado de todo aquello que hayas modificado
